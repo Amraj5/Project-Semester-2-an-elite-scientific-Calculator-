@@ -2,12 +2,12 @@
 #include <vector>
 #include <limits>
 
-#include "BasicOps.h"
-#include "PowerOps.h"
-#include "RoundingOps.h"
-#include "NumberTheory.h"
-#include "TrigOps.h"
-#include "GeometryOps.h"
+#include "/src/BasicOps.cpp"
+#include "/src/PowerOps.cpp"
+#include "/src)RoundingOps.cpp"
+#include "/src/NumberTheory.cpp"
+#include "/src/TrigOps.cpp"
+#include "/src/GeometryOps.cpp"
 
 /**
  * @file main.cpp
