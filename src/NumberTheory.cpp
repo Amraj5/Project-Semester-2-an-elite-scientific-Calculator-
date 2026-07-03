@@ -1,4 +1,4 @@
-#include "NumberTheory.h"
+#include "./include/NumberTheory.h"
 #include <cmath>
 #include <vector>
 #include <string>
