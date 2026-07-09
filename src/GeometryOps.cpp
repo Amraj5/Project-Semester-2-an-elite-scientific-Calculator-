@@ -1,4 +1,4 @@
-#include "./include/GeometryOps.h"
+#include "../include/GeometryOps.h"
 #include <cmath>
 
 /**
