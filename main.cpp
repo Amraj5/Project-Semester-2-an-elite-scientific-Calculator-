@@ -9,6 +9,12 @@
 #include "/src/TrigOps.cpp"
 #include "/src/GeometryOps.cpp"
 
+#include "/include/BasicOps.h"
+#include "/include/PowerOps.h"
+#include "/include/RoundingOps."
+#include "/include/NumberTheory.h"
+#include "/include/TrigOps.h"
+#include "/include/GeometryOps.h"
 /**
  * @file main.cpp
  * @brief Entry point for the Console-Based Calculator.
