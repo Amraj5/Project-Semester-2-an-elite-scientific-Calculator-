@@ -2,19 +2,19 @@
 #include <vector>
 #include <limits>
 
-#include "/src/BasicOps.cpp"
-#include "/src/PowerOps.cpp"
-#include "/src/RoundingOps.cpp"
-#include "/src/NumberTheory.cpp"
-#include "/src/TrigOps.cpp"
-#include "/src/GeometryOps.cpp"
+#include "src/BasicOps.cpp"
+#include "src/PowerOps.cpp"
+#include "src/RoundingOps.cpp"
+#include "src/NumberTheory.cpp"
+#include "src/TrigOps.cpp"
+#include "src/GeometryOps.cpp"
 
-#include "/include/BasicOps.h"
-#include "/include/PowerOps.h"
-#include "/include/RoundingOps."
-#include "/include/NumberTheory.h"
-#include "/include/TrigOps.h"
-#include "/include/GeometryOps.h"
+#include "include/BasicOps.h"
+#include "include/PowerOps.h"
+#include "include/RoundingOps."
+#include "include/NumberTheory.h"
+#include "include/TrigOps.h"
+#include "include/GeometryOps.h"
 /**
  * @file main.cpp
  * @brief Entry point for the Console-Based Calculator.
