@@ -1,4 +1,4 @@
-#include "./include/PowerOps.h"
+#include "../include/PowerOps.h"
 #include <cmath>
 
 /**
